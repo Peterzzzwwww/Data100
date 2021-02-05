@@ -29,8 +29,7 @@ xspline(x = dwellings[locs, 2],
         y = dwellings[locs, 3],
         shape = -1,
         lty = 2)
-
-
+title(main="A Person's path between Homes")
 
 
 
