@@ -13,3 +13,7 @@ https://github.com/Peterzzzwwww/Data100repository/blob/main/project1.1.R
 
 https://github.com/Peterzzzwwww/Data100repository/blob/main/DS%20Reflection%231
 
+# Project2
+
+#Population
+![](lbr_pop19.png)
