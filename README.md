@@ -17,3 +17,6 @@ https://github.com/Peterzzzwwww/Data100repository/blob/main/DS%20Reflection%231
 
 #Population
 ![](lbr_pop19.png)
+
+#plots
+![](Ghana.png)
