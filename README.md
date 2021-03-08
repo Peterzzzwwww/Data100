@@ -12,7 +12,7 @@ https://github.com/Peterzzzwwww/Data100repository/blob/main/project1.1.R
 
 
 ![](DS Reflection#1.md)
-
+https://github.com/Peterzzzwwww/Data100repository/blob/main/DS%20Reflection%231
 # Project2
 
 #Population
@@ -23,3 +23,5 @@ https://github.com/Peterzzzwwww/Data100repository/blob/main/project1.1.R
 
 # DS Reflection2
 ![](ds reflection2.pages.md)
+
+https://github.com/Peterzzzwwww/Data100repository/blob/main/ds%20reflection2.pages
