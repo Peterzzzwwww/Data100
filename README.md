@@ -11,7 +11,7 @@ https://github.com/Peterzzzwwww/Data100repository/blob/main/project1.1.R
 #DS Reflection1
 
 
-https://github.com/Peterzzzwwww/Data100repository/blob/main/DS%20Reflection%231
+![](DS Reflection#1)
 
 # Project2
 
@@ -22,4 +22,4 @@ https://github.com/Peterzzzwwww/Data100repository/blob/main/DS%20Reflection%231
 ![](Ghana.png)
 
 # DS Reflection2
-https://github.com/Peterzzzwwww/Data100repository/blob/main/ds%20reflection2.pages
+![](ds reflection2.pages)
