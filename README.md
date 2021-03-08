@@ -21,5 +21,5 @@ https://github.com/Peterzzzwwww/Data100repository/blob/main/DS%20Reflection%231
 #plots
 ![](Ghana.png)
 
-#DS Reflection2
+# DS Reflection2
 https://github.com/Peterzzzwwww/Data100repository/blob/main/ds%20reflection2.pages
