@@ -29,9 +29,8 @@ Under the influence of COVID-19, the improvement of digital signature have becom
 ![](Ghana.png)
 
 # DS Reflection2
-![]()
-
-
+![](ds reflection2.pages)
+https://github.com/Peterzzzwwww/Data100repository/blob/main/ds%20reflection2.pages
 Rob Kitchin analyzed the complex situation we have faced under the circumstance of the increasingly expansion of the influence of big data. He illustrated several ways that big data would influence our daily life such as gathering data from social media and influences on decision making. What is most important is that he also mentioned the revolution big data might brought to the field of science. 
 
 Rob mentioned that Big data have brought us a “new model of science” which will contributes a lot for the connection among different subjects. Certainly that is caused by several merits of Big data. Big data is able to bring us a God’s eye view that is extremely efficient and help people to give out a comprehensive understanding of what is happening on a specific event. Additionally, under properly control, people could easily gather Big data and utilize it through the way we want. As mentioned in the article, data would “speak for themselves”, that means people could easily control it, and we can interpret it under different perspectives until we find out the one which is helpful to us. We are lucky to own such a strong and controllable tool.
