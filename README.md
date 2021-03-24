@@ -36,3 +36,9 @@ Rob Kitchin analyzed the complex situation we have faced under the circumstance 
 Rob mentioned that Big data have brought us a “new model of science” which will contributes a lot for the connection among different subjects. Certainly that is caused by several merits of Big data. Big data is able to bring us a God’s eye view that is extremely efficient and help people to give out a comprehensive understanding of what is happening on a specific event. Additionally, under properly control, people could easily gather Big data and utilize it through the way we want. As mentioned in the article, data would “speak for themselves”, that means people could easily control it, and we can interpret it under different perspectives until we find out the one which is helpful to us. We are lucky to own such a strong and controllable tool.
 
 However, people have generate different perspectives regarding Big data. As mentioned that there is potential risk that big data would not be a good analyzer of literature. It would just simply transforming letters into data and not impose any “sense of emotion” on it. It is commented that this kind of work would be better if they are done by human being rather than machines. As the example shows that even though a map may show the patterns of a city, it may not have the ability to explain and analyze it. 
+
+# Project 3
+
+#challange question1
+![](project3 1.png)
+![](project3 2.png)
