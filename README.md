@@ -39,6 +39,6 @@ However, people have generate different perspectives regarding Big data. As ment
 
 # Project 3
 
-#challange question1
+
 ![](project3 1.png)
 ![](project3 2.png)
