@@ -43,3 +43,23 @@ However, people have generate different perspectives regarding Big data. As ment
 ![](3.12.png)
 ![](3.21.png)
 ![](3.22.png)
+
+# Ds reflection 3
+
+https://github.com/Peterzzzwwww/Data100repository/blob/main/ds%20reflection3.docx
+![](ds reflection3)
+He defines development as a progressing process that contains several steps and emphasizes much on freedom. He extended to Amartya Sen’s definition that development would be regarded as a property of continuously economic increase rather than simply emphasize the positive change on a specific people. 
+
+The toaster project is an experiment that Thomas decided to make a simple toaster with all original materials. He did not success at last as even building such a simple product would cost much more money than he expect and his creature broke into pieces soon after he built it. His experiment reflected that every wouldn’t be simple if we break it down into pieces. Not to mention such a huge project of building a economic system.
+
+The economic models give a comprehensive view on multiple aspects of the economic growth among past 50 years, it shows that we are experiencing a rapidly growth period and the models would contain more details such as politics and technologies. 
+
+Steve Jones is an evolutionary biologist. At uni-lever he worked to test several groups of nozzles in order to design a form of nozzle that work the best. He reach a great success that the new nozzle is 100 times more efficient than the original edition. It would give out “game-changing” results because of such a huge improvement. 
+
+A complex adaptive system is the phenomena that under a circumstance things would interact frequently and involving with each other. The complex adaptive system is hard to predict in detail as it is happened in a non linear system. It also have emergent properties that is not linked to any individual agent and it tends towards greater complexity. 
+
+Haile Sellasie was the last emperor of the great feudal dynasty of Ethiopia. The Emperor period of Ethiopia gives out a good example that the resource and power are all controlled the elites, and they would resist any kind of revolution that would potentially threat their power. This would obviously restrain the development of the country and cause negative effects. 
+
+Barder appeal to resist engineering because some evolutionary process which is likely to seem unprecedented are easy to make bigger influence than designed progress, and also in a non linear system we are hard to predict what’s going to happen.  Isomorphic mimicry means that in order to show people that their is a powerful institution that can enforce the law rather then build one that can really do so. 
+
+Resist fatalism means that we do not have to just do nothing and wait for time to chose the most proper solution, indeed we can positively choose the way we want. Norman Borlaug is a famous biologist that start the Green Revolution, which controls the mutate of the genes of paddy and finally effectively remit the scarcity of rice.
