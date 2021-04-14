@@ -63,3 +63,12 @@ Haile Sellasie was the last emperor of the great feudal dynasty of Ethiopia. The
 Barder appeal to resist engineering because some evolutionary process which is likely to seem unprecedented are easy to make bigger influence than designed progress, and also in a non linear system we are hard to predict what’s going to happen.  Isomorphic mimicry means that in order to show people that their is a powerful institution that can enforce the law rather then build one that can really do so. 
 
 Resist fatalism means that we do not have to just do nothing and wait for time to chose the most proper solution, indeed we can positively choose the way we want. Norman Borlaug is a famous biologist that start the Green Revolution, which controls the mutate of the genes of paddy and finally effectively remit the scarcity of rice.
+
+
+# Project 4
+![](4.1.png)
+![](4.2.png)
+![](4.4.png)
+![](4.5.png)
+![](4.6.png)
+![](4.7.png)
