@@ -67,7 +67,7 @@ Resist fatalism means that we do not have to just do nothing and wait for time t
 
 # Project 4
 ![](4.1.png)
-![](4.2.png)
+![](4.3.png)
 ![](4.4.png)
 ![](4.5.png)
 ![](4.6.png)
