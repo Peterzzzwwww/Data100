@@ -75,7 +75,8 @@ Resist fatalism means that we do not have to just do nothing and wait for time t
 
 # DS Reflection 4
 https://github.com/Peterzzzwwww/Data100repository/blob/main/ds%20reflection%204.pages
-![]
+![](ds reflection 4.pages)
+
 
 West mentions that scaling could be used in the study of cities’s utilize of resources, which could give sufficient help to analyze the allocation of natural resources and material resources in the cities in order to find out the most sufficient way to build a city that is most idealized. Also through putting different variances in the chart and “scale” different cities, it would offer us a intuitive sight of which city and show us how unique they are. 
 
