@@ -72,3 +72,15 @@ Resist fatalism means that we do not have to just do nothing and wait for time t
 ![](4.5.png)
 ![](4.6.png)
 ![](4.7.png)
+
+# DS Reflection 4
+
+West mentions that scaling could be used in the study of cities’s utilize of resources, which could give sufficient help to analyze the allocation of natural resources and material resources in the cities in order to find out the most sufficient way to build a city that is most idealized. Also through putting different variances in the chart and “scale” different cities, it would offer us a intuitive sight of which city and show us how unique they are. 
+
+We could also use scaling to give out a data analyze of the transmit of information in the city. This provides us a different angel of view for the cities, as under the huge frame of cities, we could see the exchange of information through social networks, which not only transmit information but also create wealth and brought out numerous new ideas. By scaling, we could analyze how fast different information, in other ways we could call them data, transmit, which could help us better understand how the data transmission works. 
+
+Scaling is also utilized in the study of social network. By analyzing our social network and connection with different people among us, we could easily understand the level of intimacy of our friends, which one is our closer friend and who is unfamiliar?  By studying different group sizes of people we could have a more comprehensive understand to the social network. 
+
+West mentions that big data could become increasingly essential among variance areas of study and it would also challenge the traditional view of science, as data provided us a new way for understanding the world. 
+
+According to West, theories could not be relevant in the face of big data. For example, Theory of Everything, even it seems extremely comprehensive but it indeed looks surprisingly simple under the scale of universe and it could not explain everything. 
