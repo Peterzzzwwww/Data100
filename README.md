@@ -87,3 +87,6 @@ Scaling is also utilized in the study of social network. By analyzing our social
 West mentions that big data could become increasingly essential among variance areas of study and it would also challenge the traditional view of science, as data provided us a new way for understanding the world. 
 
 According to West, theories could not be relevant in the face of big data. For example, Theory of Everything, even it seems extremely comprehensive but it indeed looks surprisingly simple under the scale of universe and it could not explain everything. 
+
+# Project 5
+![](5.4.png)
