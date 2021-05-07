@@ -90,3 +90,13 @@ According to West, theories could not be relevant in the face of big data. For e
 
 # Project 5
 ![](5.4.png)
+
+
+# DS Reflection5
+![](ds reflection 5.pages)
+https://github.com/Peterzzzwwww/Data100repository/blob/main/ds%20reflection%205.pages
+Seldom can we overemphasize the importance of data science, as since its creation, it have never stop the process of evolution. One thing that impress me most is that when I was searching data of Ghana from webpages, I had noticed that since 1985 and 2000, the amount of data have experience two great period of increase. At the bingeing we could only gather a few areas of data but in contemporary society, data collection had penetrated to several different areas, and once people wanted to start a specific research, they were able to gather the data we want from the correct place and analyze it. 
+
+One potential harm I could anticipate is that under the influence of big data, are we able to protect our privacy security? The utilization and controlling of big data is obviously a technology that cannot be utilized by every people, especially those who are poor. So they are under the risk of being spied and they would even become part of some specific experiment even though they do not mean to be. Unlike a specific kind of skill such as learning a language, mastering the skill of data science may not be that easy to popularize, so this kind of question may not be solved in a short period. 
+
+In the future, we could anticipate that big data would be exploited in a bigger extant and fit into numerous new areas and we could also expand the popularization of data science make people easier to master it. It is really reasonable to trust that we could face a better future of utilizing data science. 
