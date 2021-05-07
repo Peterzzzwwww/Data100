@@ -89,6 +89,7 @@ West mentions that big data could become increasingly essential among variance a
 According to West, theories could not be relevant in the face of big data. For example, Theory of Everything, even it seems extremely comprehensive but it indeed looks surprisingly simple under the scale of universe and it could not explain everything. 
 
 # Project 5
+![](5.2.png)
 ![](5.4.png)
 
 
