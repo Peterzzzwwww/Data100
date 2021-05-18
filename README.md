@@ -109,3 +109,10 @@ In the future, we could anticipate that big data would be exploited in a bigger 
 # 3D Plot
 ![](f.2.png)
 ![](f.3.png)
+
+# Final analyse
+It was such an intriguing experience that I had produce a comprehensive 3D plot of Ghana, an interesting country in western Africa. Comparing with other two-dimension plots, 3D plot could offer us many insightful observation for the country—something that could only be able to see in the form of data in 2D plots such as topography and the trace of water. 
+
+As a country that do not have a large population, Ghana’s population distribution has directly affected by the topography, since the only area that have a large population density locates at the junction of the high attribute locations and low attribute locations. This place has better temperature, which is caused by the topography and also have abundant water resource. 
+
+Transportation and health care facilities are highly correlated with the topography as well. Since there are slightly more routes and health care facilities in those high attribute locations. Since Ghana is a country with a lot of high land in the north, apparently in that places traffic would be more complicated comparing with the southern Ghana. With harsher weather and more dangerous living environment, in that place the requirement of health care facilities is also higher. 
