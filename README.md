@@ -105,3 +105,7 @@ Seldom can we overemphasize the importance of data science, as since its creatio
 One potential harm I could anticipate is that under the influence of big data, are we able to protect our privacy security? The utilization and controlling of big data is obviously a technology that cannot be utilized by every people, especially those who are poor. So they are under the risk of being spied and they would even become part of some specific experiment even though they do not mean to be. Unlike a specific kind of skill such as learning a language, mastering the skill of data science may not be that easy to popularize, so this kind of question may not be solved in a short period. 
 
 In the future, we could anticipate that big data would be exploited in a bigger extant and fit into numerous new areas and we could also expand the popularization of data science make people easier to master it. It is really reasonable to trust that we could face a better future of utilizing data science. 
+
+# 3D Plot
+![](f.2.png)
+![](f.3.png)
