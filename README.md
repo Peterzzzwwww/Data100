@@ -28,6 +28,10 @@ Under the influence of COVID-19, the improvement of digital signature have becom
 #plots
 ![](Ghana.png)
 
+# 3D Plot 
+
+
+
 # DS Reflection2
 ![](ds reflection2.pages)
 https://github.com/Peterzzzwwww/Data100repository/blob/main/ds%20reflection2.pages
